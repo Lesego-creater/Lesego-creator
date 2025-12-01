@@ -12,10 +12,9 @@ Advanced C/C++ and MATLAB programming for embedded systems.
 Enhancing my software architecture and development skills.
 
 💡 Completed university level projects:
-Smart Prepaid Energy Controller Design
-Automated Reversing for a Vehicle with a Trailer - Final year project
+Smart Prepaid Energy Controller Design,
+Automated Reversing for a Vehicle with a Trailer - Final year project,
 Machine learning algorithms
-Control systems
 
 🤖 Fun Fact:
 I enjoy tinkering with hardware just as much as coding! From building simulation models to developing software architectures, I'm always up for a new challenge.
